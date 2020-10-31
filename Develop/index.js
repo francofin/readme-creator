@@ -52,7 +52,7 @@ const questions = [
     {
         type: 'checkbox',
         name: 'languages',
-        message: 'What are your main contributions to github',
+        message: 'What are the main Languages used in this Project?',
         choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node', 'Python']
     },
     {
