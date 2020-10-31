@@ -51,6 +51,7 @@ function generateMarkdown(data) {
   ${data.tests}
   \`\`\`
 
+  ${data.date_created}
   ## Questions
   
   If you have any questions about the repo, ipen an issue and please contact me directly at ${data.email}. You can find more of ${data.repo}'s projects at [${data.link}]

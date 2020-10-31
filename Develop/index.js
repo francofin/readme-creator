@@ -11,6 +11,11 @@ const questions = [
         name:'name',
         message: 'Please enter your name'
     },
+    {
+        type:'input',
+        name:'date_created',
+        message: 'Please enter date Created'
+    },
 
     {
         type:'input',
