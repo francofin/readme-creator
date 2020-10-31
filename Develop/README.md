@@ -1,5 +1,5 @@
 # undefined
-  [![License: MIT](https://img.shields.io/badge/MIT)]
+  (https://img.shields.io/badge/MIT)
 
   ## Description
   finance
@@ -45,6 +45,6 @@
 
   ## Questions
   
-  If you have any questions about the repo, ipen an issue and please contact me directly at finp. You can find more of my projects at [undefined]
+  If you have any questions about the repo, ipen an issue and please contact me directly at finop. You can find more of my projects at [undefined]
 
 
