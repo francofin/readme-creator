@@ -54,7 +54,7 @@ function generateMarkdown(data) {
 };
 
 function renderLicenseBadge(license) {
-  return "(https://img.shields.io/badge/"+license+"?raw=true)";
+  return "[](https://img.shields.io/badge/"+license+"?raw=true)";
 };
 
 
