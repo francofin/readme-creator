@@ -1,5 +1,5 @@
 # undefined
-  [](https://img.shields.io/badge/License-MIT-yellow.svg?raw=true)
+  [!License](https://img.shields.io/badge/License-GPLv3-blue.svg?raw=true)
 
   ## Description
   finance
@@ -9,7 +9,7 @@
   [Installation](#installation)
 
   *[Usage](#usage)
-  (https://opensource.org/licenses/MIT)
+  (https://opensource.org/licenses/gpl-3.0)
   *[Contributing](#contributing)
 
   *[Tests](#tests)
