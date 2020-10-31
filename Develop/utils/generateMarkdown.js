@@ -13,11 +13,14 @@ function generateMarkdown(data) {
   *[Usage](#usage)
   ${renderLicenseLink(data.license)}
 
+  *[License](#license)
+
   *[Contributing](#contributing)
 
   *[Tests](#tests)
 
   *[Questions](#questions)
+
 
   ## Installation
 
@@ -31,10 +34,12 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
+  ## License
 
+  ${renderLicenseSection(data.license)}
 
   ## Contributing
-
+  ${rendercontribution(data.contribute)}
   ${rendercontribution(data.contributing)}
 
 
@@ -56,6 +61,11 @@ function generateMarkdown(data) {
 
 function renderLicenseBadge(license) {
   return "![License](https://img.shields.io/badge/"+license+"?raw=true)";
+};
+
+function renderLicenseSection(license) {
+  var licenseinfo = "This project is covered under the"+ license +"license. The project is also copyright of ${data.github} [YYYY]";
+  return licenseinfo
 };
 
 

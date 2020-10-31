@@ -47,9 +47,14 @@ const questions = [
     },
     {
         type: 'confirm',
-        name: 'contributing',
+        name: 'contribute',
         message: 'Is this project open for Contributions?',
         default: false
+    },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'Enter Instructions for contributing',
     },
     {
         type: 'checkbox',
@@ -62,6 +67,11 @@ const questions = [
         name: 'licenseBadge',
         message: 'PLease choose a Badge for the License Selected',
         choices: ['License-MIT-yellow.svg', 'License-GPLv3-blue.svg', 'License-MPL%202.0-brightgreen.svg', 'License-OFL%201.1-lightgreen.svg', 'License-EPL%201.0-red.svg', 'License-Apache%202.0-blue.svg']
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'Please enter Instructions on how to run tests.',
     },
 
 ];

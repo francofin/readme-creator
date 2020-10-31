@@ -11,11 +11,14 @@
   *[Usage](#usage)
   (https://opensource.org/licenses/MIT)
 
+  *[License](#license)
+
   *[Contributing](#contributing)
 
   *[Tests](#tests)
 
   *[Questions](#questions)
+
 
   ## Installation
 
@@ -29,11 +32,13 @@
 
   undefined
 
+  ## License
 
+  This project is covered under theMITlicense. The project is also copyright of ${data.github} [YYYY]
 
   ## Contributing
-
-  This Project does not allow collaborations
+  This project allows open collaboration and contributions, please email me first however to confirm your interest in contributing to this project. For more information on contributions please see (https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
+  This project allows open collaboration and contributions, please email me first however to confirm your interest in contributing to this project. For more information on contributions please see (https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 
   ## Tests
