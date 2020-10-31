@@ -1,4 +1,4 @@
-# undefined
+# Fintank
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg?raw=true)
 
   ## Description
@@ -10,6 +10,7 @@
 
   *[Usage](#usage)
   (https://opensource.org/licenses/MIT)
+
   *[Contributing](#contributing)
 
   *[Tests](#tests)
@@ -32,7 +33,7 @@
 
   ## Contributing
 
-  undefined
+  This project allows open collaboration and contributions, please email me first however to confirm your interest in contributing to this project. For more information on contributions please see (https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 
   ## Tests
@@ -45,6 +46,6 @@
 
   ## Questions
   
-  If you have any questions about the repo, ipen an issue and please contact me directly at francofin. You can find more of my projects at [undefined]
+  If you have any questions about the repo, ipen an issue and please contact me directly at finapptank@gmail.com. You can find more of my projects at [undefined]
 
 

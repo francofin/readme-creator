@@ -31,6 +31,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'title',
+        message: 'Provide a Title for your project'
+    },
+    {
+        type: 'input',
         name: 'description',
         message: 'Provide a description of your projects (Required)'
     },
@@ -39,6 +44,12 @@ const questions = [
         name: 'languages',
         message: 'What are your main contributions to github',
         choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node', 'Python']
+    },
+    {
+        type: 'confirm',
+        name: 'contributing',
+        message: 'Is this project open for Contributions?',
+        default: false
     },
     {
         type: 'checkbox',
