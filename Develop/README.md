@@ -1,5 +1,5 @@
 # undefined
-  [!License](https://img.shields.io/badge/License-GPLv3-blue.svg?raw=true)
+  ![License](https://img.shields.io/badge/License-MIT-yellow.svg?raw=true)
 
   ## Description
   finance
@@ -9,7 +9,7 @@
   [Installation](#installation)
 
   *[Usage](#usage)
-  (https://opensource.org/licenses/gpl-3.0)
+  (https://opensource.org/licenses/MIT)
   *[Contributing](#contributing)
 
   *[Tests](#tests)
@@ -45,6 +45,6 @@
 
   ## Questions
   
-  If you have any questions about the repo, ipen an issue and please contact me directly at finapp. You can find more of my projects at [undefined]
+  If you have any questions about the repo, ipen an issue and please contact me directly at francofin. You can find more of my projects at [undefined]
 
 
