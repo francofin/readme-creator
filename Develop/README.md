@@ -1,5 +1,5 @@
 # undefined
-  (https://img.shields.io/badge/License-MIT-yellow.svg)
+  (https://img.shields.io/badge/License-MIT-yellow.svg?raw=true)
 
   ## Description
   finance
