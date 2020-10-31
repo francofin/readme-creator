@@ -20,14 +20,24 @@ const questions = [
 
     {
         type:'input',
-        name:'github',
+        name:'repo',
         message: 'Please enter your github user repo'
+    },
+    {
+        type:'input',
+        name:'installation',
+        message: 'Please enter the dependencies required to be installed for this project'
+    },
+    {
+        type:'input',
+        name:'year',
+        message: 'Please enter a copyright year for your project'
     },
 
     {
         type:'input',
         name:'link',
-        message: 'Please enter a link to your github repo'
+        message: 'Please enter a link to your github profile'
     },
     {
         type: 'input',

@@ -36,7 +36,7 @@ function generateMarkdown(data) {
 
   ## License
 
-  ${renderLicenseSection(data.license)}
+  ${renderLicenseSection(data.license, data.repo, data.year)}
 
   ## Contributing
   ${rendercontribution(data.contribute)}
@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   To run tests, run the following command:
 
   \`\`\`
-  ${data.test}
+  ${data.tests}
   \`\`\`
 
   ## Questions
@@ -63,8 +63,8 @@ function renderLicenseBadge(license) {
   return "![License](https://img.shields.io/badge/"+license+"?raw=true)";
 };
 
-function renderLicenseSection(license) {
-  var licenseinfo = "This project is covered under the"+ license +"license. The project is also copyright of ${data.github} [YYYY]";
+function renderLicenseSection(license, github, copyright_year) {
+  var licenseinfo = "This project is covered under the "+ license +" license. The project is also copyright of " + github + " "+copyright_year;
   return licenseinfo
 };
 
