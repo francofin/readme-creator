@@ -56,6 +56,11 @@ const questions = [
         choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node', 'Python']
     },
     {
+        type: 'input',
+        name: 'usage',
+        message: 'Please Enter Usage guidelines'
+    },
+    {
         type: 'confirm',
         name: 'contribute',
         message: 'Is this project open for Contributions?',

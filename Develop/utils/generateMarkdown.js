@@ -40,7 +40,7 @@ function generateMarkdown(data) {
 
   ## Contributing
   ${rendercontribution(data.contribute)}
-  ${rendercontribution(data.contributing)}
+  ${data.contributing}
 
 
   ## Tests
@@ -53,7 +53,7 @@ function generateMarkdown(data) {
 
   ## Questions
   
-  If you have any questions about the repo, ipen an issue and please contact me directly at ${data.email}. You can find more of my projects at [${data.repo}]
+  If you have any questions about the repo, ipen an issue and please contact me directly at ${data.email}. You can find more of ${data.repo}'s projects at [${data.link}]
 
 
 `;
