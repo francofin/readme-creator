@@ -13,6 +13,11 @@ const questions = [
     },
     {
         type:'input',
+        name:'expected_launch',
+        message: 'What is the expected launch of the project?'
+    },
+    {
+        type:'input',
         name:'date_created',
         message: 'Please enter date Created'
     },
