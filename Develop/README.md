@@ -6,7 +6,7 @@
 
   ## Table of Contents
 
-  [Installation](#installation)
+  *[Installation](#installation)
 
   *[Usage](#usage)
   (https://opensource.org/licenses/)

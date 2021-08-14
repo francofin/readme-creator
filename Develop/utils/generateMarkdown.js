@@ -63,7 +63,7 @@ function generateMarkdown(data) {
 };
 
 function renderLicenseBadge(license) {
-  return "![License](https://img.shields.io/badge/"+license+"?raw=true)";
+  return "![License](https://img.shields.io/badge/"+license+")";
 };
 
 function renderLicenseSection(license, github, copyright_year) {
