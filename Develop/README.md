@@ -1,5 +1,5 @@
 # Fintank
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg,License-GPLv3-blue.svg,License-MPL%202.0-brightgreen.svg?raw=true)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   This is a Financial news website
